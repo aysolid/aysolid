@@ -1,6 +1,6 @@
-Hi, I'm David Ogundairo, an educational technologist with a passion for developing apps for learning.
+Hi, I'm David Ogundairo, a technologist, trainer and a developer with a passion for transforming learning through technology.
 I'm presently studying Python and Javascript machine learning. 
-I'm searching for partners on initiatives integrating machine learning into educational systems.
+I'm looking for partners on initiatives transforming the educational systems through technology. 
 
 
 
